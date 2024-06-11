@@ -1,0 +1,36 @@
+_repo: Vain-oblations_73693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gerould, Katharine Fullerton
+    alias: Gerould, Katherine Fullerton
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '35488'
+    url: http://www.gutenberg.org/2009/agents/35488
+    wikipedia: https://en.wikipedia.org/wiki/Katharine_Elizabeth_Fullerton_Gerould
+description: ''
+gutenberg_issued: '2024-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73693'
+language: en
+pgterms:marc904: https://archive.org/details/vainoblations00gerorich
+pgterms:marc905: 20230902105136gerould
+pgterms:marc906: '1914'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'American fiction -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Vain oblations -- The mango-seed -- The wine of violence -- On the
+  staircase -- The tortoise -- The divided kingdom -- The case of Paramore.
+title: Vain oblations
+url: http://www.gutenberg.org/ebooks/73693
